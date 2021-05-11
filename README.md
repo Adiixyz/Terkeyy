@@ -1,7 +1,7 @@
 # Terkeyy
 Termux key by Adiixyz
 
-(screenshot.jpg)
+
 
 ## Installation
 ```bash
@@ -18,3 +18,6 @@ Get Terkeyy
 ```
 
 # Nah pilih yg lu mau:v
+
+Kalo mau check menunya 
+Buka screenshot.jpg
