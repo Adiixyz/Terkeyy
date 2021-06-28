@@ -1,7 +1,8 @@
 # Terkeyy
 Termux key by Adiixyz
 
-
+# TUTORIAL
+https://youtu.be/uGhYlE9nnk8
 
 ## Installation
 ```bash
@@ -12,12 +13,14 @@ Termux key by Adiixyz
 
 Get Terkeyy
 
-## dahlah
+## Get 
 ```bash
-> Python terkeyy.py
+> python terkeyy.py
 ```
 
-# Nah pilih yg lu mau:v
-
-Kalo mau check menunya 
-Buka screenshot.jpg
+# Use
+```bash
+> Type 1 for default keys
+> Type 2 for custom keys
+> Type 3 for About
+```
